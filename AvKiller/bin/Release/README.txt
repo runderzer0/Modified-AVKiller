@@ -1,0 +1,1 @@
+bind all these files basically and u get clients with some FUD Shit without them realising there AV is off

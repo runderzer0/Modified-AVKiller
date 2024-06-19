@@ -1,0 +1,14 @@
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\bin\Release\AvKiller.exe.config
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\bin\Release\AvKiller.exe
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\obj\Release\AvKiller.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\obj\Release\AvKiller.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\obj\Release\AvKiller.exe
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\obj\Release\AvKiller.pdb
+C:\Users\miles\Downloads\es skibidi\AV-KILLER-main\src\AvKiller\bin\Release\AvKiller.pdb
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\bin\Release\AvKiller.exe.config
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\bin\Release\AvKiller.exe
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\bin\Release\AvKiller.pdb
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\obj\Release\AvKiller.csproj.AssemblyReference.cache
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\obj\Release\AvKiller.csproj.CoreCompileInputs.cache
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\obj\Release\AvKiller.exe
+C:\Users\miles\Downloads\es skibidi\AV-Killer Modified\src\AvKiller\obj\Release\AvKiller.pdb
